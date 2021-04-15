@@ -1,0 +1,16 @@
+2020-11-26 09:14:59	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'logo'
+2020-11-26 09:38:41	natalie	http://localhost:8888/manager/page/sort/	Updated sort for 8 pages
+2020-12-03 07:48:58	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'galerie'
+2020-12-03 07:56:42	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'obrazek'
+2020-12-10 08:22:57	natalie	http://localhost:8888/manager/setup/template/removeFields	Deleted field "obsah" data in 0 row(s) from 0 page(s) using template "o-nas". [page-by-page]
+2021-03-08 23:00:10	natalie	http://localhost:8888/manager/page/edit/?id=1016	Populated initial created/modified dates for 'podobrazek'
+2021-03-08 23:24:02	natalie	http://localhost:8888/manager/page/edit/?id=1016	Populated initial created/modified dates for 'podobrazek2'
+2021-03-09 11:29:19	natalie	http://localhost:8888/manager/page/edit/?id=1016	Populated initial created/modified dates for 'podobrazek3'
+2021-03-09 11:29:19	natalie	http://localhost:8888/manager/page/edit/?id=1016	Populated initial created/modified dates for 'podobrazek4'
+2021-04-07 23:29:27	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'podobrazek5'
+2021-04-07 23:29:27	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'podobrazek6'
+2021-04-13 15:58:13	natalie	http://localhost:8888/manager/module/	Populated initial created/modified dates for 'language_files_site'
+2021-04-13 15:58:13	natalie	http://localhost:8888/manager/module/	Populated initial created/modified dates for 'language_files'
+2021-04-13 21:48:36	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'podobrazek7'
+2021-04-13 21:48:36	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'podobrazek8'
+2021-04-13 22:47:25	natalie	http://localhost:8888/manager/page/edit/?id=1	Populated initial created/modified dates for 'podobrazek9'

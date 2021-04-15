@@ -1,0 +1,6 @@
+2020-11-26 07:47:24	natalie	http://localhost:8888/	Compiled file: /site/templates/home.php
+2020-12-03 07:07:21	guest	http://localhost:8888/manager/login/	Maintenance/Copy new version of source file to target file: /site/templates/home.php => /site/assets/cache/FileCompiler/site/templates/home.php
+2021-01-20 21:44:56	guest	http://localhost:8888/	Maintenance/Copy new version of source file to target file: /site/templates/kontakt.php => /site/assets/cache/FileCompiler/site/templates/kontakt.php
+2021-03-29 21:58:48	natalie	http://localhost:8888/fotogalerie/	Maintenance/Copy new version of source file to target file: /site/templates/home.php => /site/assets/cache/FileCompiler/site/templates/home.php
+2021-04-07 21:32:00	guest	http://localhost:8888/	Maintenance/Copy new version of source file to target file: /site/templates/basic-page.php => /site/assets/cache/FileCompiler/site/templates/basic-page.php
+2021-04-12 19:21:28	guest	http://localhost:8888/	Maintenance/Copy new version of source file to target file: /site/templates/cenik.php => /site/assets/cache/FileCompiler/site/templates/cenik.php

@@ -1,0 +1,45 @@
+2020-11-26 07:43:50	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2020-12-03 07:07:20	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2020-12-03 07:07:32	guest	http://localhost:8888/manager/login/	Error: Failed login for 'natalie' - Invalid password
+2020-12-03 07:07:37	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2020-12-03 08:04:39	?	?	User 'natalie' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2020-12-03 08:04:47	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2020-12-03 08:20:30	?	?	User 'natalie' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2020-12-03 08:35:25	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2020-12-04 09:26:18	?	?	User 'natalie' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2020-12-04 09:26:45	natalie	http://localhost:8888/manager/login/?id=1	Successful login for 'natalie'
+2020-12-04 09:28:24	?	?	User 'natalie' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2020-12-04 18:01:23	natalie	http://localhost:8888/manager/login/?id=1	Successful login for 'natalie'
+2020-12-10 07:10:07	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2020-12-10 07:10:41	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2020-12-10 07:42:51	?	?	User 'natalie' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2020-12-10 07:47:01	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2020-12-10 09:18:30	?	?	User 'natalie' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-01-13 20:59:04	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-01-20 21:44:56	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-01-20 21:45:47	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-02-01 18:46:55	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-02-16 16:41:58	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-02-19 14:14:00	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-02-19 14:14:00	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-03-01 10:28:04	guest	http://localhost:8888/manager/login/	Error: Failed login for 'natalie' - Invalid password
+2021-03-01 10:28:11	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-03-08 21:25:59	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-03-08 21:26:25	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-03-10 17:01:00	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-03-10 22:40:05	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-03-20 17:06:36	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-03-20 17:07:25	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-03-22 06:29:03	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-03-28 21:59:22	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-03-31 07:04:43	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-04-05 19:58:10	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-04-05 19:58:11	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-04-06 07:00:06	?	?	User 'natalie' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-04-06 14:45:08	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-04-07 21:32:00	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-04-07 21:35:19	natalie	http://localhost:8888/manager/login/?id=1	Successful login for 'natalie'
+2021-04-12 19:21:27	?	?	User 'natalie' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-04-13 07:04:48	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
+2021-04-13 15:59:13	natalie	http://localhost:8888/manager/login/logout/	Logout for 'natalie'
+2021-04-13 15:59:20	natalie	http://localhost:8888/manager/login/	Successful login for 'natalie'
